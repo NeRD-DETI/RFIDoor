@@ -1,0 +1,5 @@
+uint32_t acceptCards[] = {
+	346246508,	//Zé Manel
+	345464530,	//Grilo Saltitante	
+};
+size_t card_count = sizeof(acceptCards)/sizeof(acceptCards);
